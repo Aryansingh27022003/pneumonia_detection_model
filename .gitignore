@@ -1,0 +1,4 @@
+venv/
+_pywrap_tensorflow_internal.pyd
+libclang.dll
+_pywrap_tensorflow_internal.lib
